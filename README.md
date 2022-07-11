@@ -1,12 +1,12 @@
 
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on STICK
-<br>- 🌱 I’m currently learning React
+<br>- 🔭 I’m currently working on [STICK](https://github.com/chansya/Project_STICK)
+<br>- 🌱 I’m currently learning React and Data Structures
 <br>- 👯 I’m looking to collaborate on open-source projects
 <br>- 📫 How to reach me: amy.chansya@gmail.com
 <br>- 😄 Pronouns: She/her 
-<br>- ⚡ Fun fact: I lived in 6 different countries!
+<br>- ⚡ Fun fact: I lived in 6 different countries
 
 
 # 💻 Tech Stack:
