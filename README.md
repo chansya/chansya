@@ -6,7 +6,6 @@
 <br>- 👯 I’m looking to collaborate on open-source projects
 <br>- 📫 How to reach me: amy.chansya@gmail.com
 <br>- 😄 Pronouns: She/her 
-<br>- ⚡ Fun fact: I lived in 6 different countries
 
 
 # 💻 Tech Stack:
